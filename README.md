@@ -2,14 +2,6 @@
 
 This project demonstrates a complete machine learning workflow for classifying news articles into four categories: Business, Sports, Crime, and Science. The model is built using Python, scikit-learn, and spaCy.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Installation and Usage](#installation-and-usage)
-- [Technologies Used](#technologies-used)
-
 ## Project Overview
 
 The goal of this project is to automatically categorize news articles, a common task in Natural Language Processing (NLP). This repository contains a Jupyter Notebook that walks through the entire process, from data exploration and cleaning to model training and evaluation. The final model successfully classifies articles with **88% accuracy**.
@@ -80,8 +72,7 @@ To run this project on your local machine, follow these steps:
     jupyter notebook news_category_classification.ipynb
     ```
 
-## Technologies Used
-- Python 3
+## Libraries Used
 - pandas
 - scikit-learn
 - spaCy
